@@ -156,7 +156,7 @@ fun TicketScreen() {
 @Composable
 fun TicketContent(
     hargaTiket: Int,
-    jumlahTiket: Int,
+    jumlahTiket: Int
     namaPembeli: String,
     status: String,
 
